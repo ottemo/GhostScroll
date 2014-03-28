@@ -177,7 +177,7 @@ a:hover {
 a.btn {
     
     text-decoration: none;
-    background-color: #9fd067;
+    background-color: #3D9CD6;
     border-radius: 6px;
     -webkit-border-radius: 6px;
     color: white;
@@ -540,7 +540,7 @@ a.fn-item:hover {
     color: #9fd067;
 }
 a.fn-item.active {
-    color: #86c440;
+    color: #3D9CD6;
     opacity: 1;
 
 }
@@ -934,8 +934,8 @@ a.fn-item.active {
     }
 
     .blog-description {
-        font-size: 1.7rem;
-        line-height: 1.5em;
+        font-size: 2.8rem;
+        line-height: 1.7em;
     }
 
     .post {
